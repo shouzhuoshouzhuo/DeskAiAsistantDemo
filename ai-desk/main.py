@@ -5,7 +5,7 @@ from PyQt5.QtCore import Qt
 from ui.main_window import AIDeskWindow
 from core.memory import set_affection
 
-DEBUG_AFFECTION = 0  # 改这里测试不同好感度：0=陌生人 30=朋友 60=知己 90=恋人
+DEBUG_AFFECTION = 90  # 改这里测试不同好感度：0=陌生人 30=朋友 60=知己 90=恋人
 
 if __name__ == "__main__":
     QApplication.setAttribute(Qt.AA_EnableHighDpiScaling)
