@@ -1,0 +1,18 @@
+# 环境变量（含 API 密钥，绝不提交）
+.env
+ai-desk/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+
+# 用户数据
+ai-desk/user_profile.json
