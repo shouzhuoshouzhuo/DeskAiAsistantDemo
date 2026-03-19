@@ -1,2 +1,6 @@
-anthropic
-PyQt6
+PyQt5
+openai
+python-dotenv
+pyperclip
+pyautogui
+keyboard
